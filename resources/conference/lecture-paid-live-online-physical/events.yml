@@ -1,14 +1,14 @@
-- start_date: 2024-04-14 09:00:00 
+- start_date: 2024-03-16 16:00:00 
   end_date: 2024-06-16 19:00:00
   timezone:  Europe/Rome
   address_line_1: Torino, Italy
   address_line_2: 112 C.so Francesco Ferrucci
   address_line_3: 
-  name: Paid Test Live
+  name: Lecture Paid Live Online/Physical
   builder: PlanB
   type: Lecture
-  is_online: true
-  is_in_person: true
+  book_online: true
+  book_in_person: true
   price_dollars: 5
   description: 1st guest star lecture of PlanB Biz School
   language: 
